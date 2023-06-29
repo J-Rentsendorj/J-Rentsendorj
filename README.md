@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Jin+Welcome+to+my+Profile!" align="middle" alt="Hi, I'm Jin Welcome to my Profile! animated typed out">
 
 <p align="center"> 
-  <img width="1000px" height="400px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+  <img width="1000px" height="300px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
 </p>
 
 <h2 align="center"> Full Stack Developer | Active Security Clearance </h2>
@@ -14,7 +14,7 @@ I'm a full stack developer and US Army veteran born in Mongolia and currently re
   
 <div align="center">
 
-  <h3> <strong> Connect With Me </strong> </h3>
+  <h2> <strong> Connect With Me </strong> </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hyuncafe/](https://www.linkedin.com/in/baljinnyam-rentsendorj/" target="_blank">
@@ -34,7 +34,7 @@ I'm a full stack developer and US Army veteran born in Mongolia and currently re
 
 
 <p align="center"> 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" height="400" >
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" height="300" >
 </p>
 
 
