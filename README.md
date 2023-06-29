@@ -1,8 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Jin+Welcome+to+my+Profile!" align="middle" alt="Hi, I'm Jin Welcome to my Profile! animated typed out">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> ![878o](https://github.com/J-Rentsendorj/J-Rentsendorj/assets/99370192/cc7f0c9b-298c-4ab9-9965-d85822672f58)
+  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
 <h2 align="center"> Full Stack Developer | Self-Taught Three.JS </h2>
