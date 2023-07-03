@@ -6,7 +6,7 @@
 
 <h2 align="center"> Full Stack Developer | Active Security Clearance </h2>
 
-I'm a full stack developer and US Army veteran born in Mongolia and currently residing in SF Bay Area. With a strong passion for front-end development and a knack for exploring cutting-edge technologies, I strive to create engaging/ immersive accessable user interfaces and experiences. My journey as a developer began through self-teaching and as a Coding Dojo alumni. I've since honed my skills in various frameworks and tools.
+I'm a full stack developer and US Army veteran born in Mongolia and currently residing in SF Bay Area. With a strong passion for front-end development and a knack for exploring cutting-edge technologies, I strive to create engaging/ immersive accessible user interfaces and experiences. My journey as a developer began through self-teaching and as a Coding Dojo alumni. I've since honed my skills in various frameworks and tools.
 
 <div align="center">
   <h2> <strong> Tech Stack </strong></h2>
