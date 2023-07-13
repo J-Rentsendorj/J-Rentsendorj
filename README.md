@@ -34,7 +34,7 @@ I'm a full stack developer and US Army veteran born in Mongolia and currently re
 
 
 <p align="center"> 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" height="300" >
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="1000" height="400" >
 </p>
 
 
