@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Jin+Welcome+to+my+Profile!" align="middle" alt="Hi, I'm Jin Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Jinn+Welcome+to+my+Profile!" align="middle" alt="Hi, I'm Jinn Welcome to my Profile! animated typed out">
 
 <p align="center"> 
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="1000" height="400" >
@@ -21,11 +21,6 @@ I'm a full stack developer and US Army veteran born in Mongolia, currently resid
     <img align="center" alt="linkedin logo" height="50" width="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
   </a> &nbsp;&nbsp;
 
-   <a href="https://jin-dev.vercel.app/" target="_blank">
-    Portfolio
-</a> &nbsp;&nbsp;
-  <a>
-  
   <a href="mailto:bajka.rentsendorj@outlook.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" />
   </a> &nbsp;&nbsp;
